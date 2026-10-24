@@ -1,8 +1,6 @@
 /*:
  * @target MV 1.63
- * @plugindesc v 1.0
- * Simple plugin that replaces m4a with ogg in all
- * deployments. M4a is dead!0
+ * @plugindesc v1.0.0 - Use OGG audio in all RPG Maker MV deployments.
  * @author Fugahagen
  * =======================================================
  * Credits
