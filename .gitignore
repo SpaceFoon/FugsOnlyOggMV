@@ -1,0 +1,13 @@
+# Local environment overrides
+.env
+.env.*
+!.env.example
+!.env.*.example
+# Operating system metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+# Local editor backups and output
+*.bak
+*.log
+*.tmp
